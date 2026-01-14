@@ -255,10 +255,10 @@ background-color: #30B868;
     text-decoration: none;
     padding: 12px 16px;
 }
-.btn-cta img{
+.cta-btn img{
     vertical-align: middle;
 }
-.btn-cta:hover{
+.cta-btn:hover{
     background-color: #30BB68;
 }
 .footer-container{
